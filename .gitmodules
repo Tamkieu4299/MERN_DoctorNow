@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Tamkieu4299/MERN_DoctorNow.git
+[submodule "socket"]
+	path = socket
+	url = https://github.com/Tamkieu4299/MERN_DoctorNow.git
